@@ -42,7 +42,7 @@ The analysis focused on answering key business questions:
 
 
 
-### Dashboard Pages
+### Dashboard Pagesy
 
 1. #### Executive Summary
 The Executive Summary provides an overview of the company's financial and operational performance.
@@ -67,6 +67,12 @@ Other categories included:
 | Sports & Outdoors | MXN 2.2M |    ~MXN 0.5M |
 
 The dashboard also showed a difference in store profitability, with the Top 5 stores averaging around **32% gross margin**, compared with approximately **25%** for the Bottom 5 stores.
+
+
+### Overview of Executive Summary
+
+<img width="740" height="413" alt="Image" src="https://github.com/user-attachments/assets/887fdae1-7a94-49b9-b385-be703627015f" />
+
 
 
 2. ### Profit Margin Analysis
