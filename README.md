@@ -1,5 +1,11 @@
 # Maven Toys Mexico-Sales Inventory Profitability Analysis
 
+
+<img width="1967" height="1088" alt="Image" src="https://github.com/user-attachments/assets/746827ec-a1fd-406c-ba55-ea14b6ed75b4" />
+
+
+
+
 ### Project Structure
 - Project Overview
 - Business Objectives
@@ -42,7 +48,7 @@ The analysis focused on answering key business questions:
 
 
 
-### Dashboard Pagesy
+### Dashboard Pages
 
 1. #### Executive Summary
 The Executive Summary provides an overview of the company's financial and operational performance.
@@ -79,11 +85,13 @@ The dashboard also showed a difference in store profitability, with the Top 5 st
 This page focuses on understanding profitability across product categories and store locations.
 
 **Key findings**
+
 The overall gross margin was approximately **28%**.
 The analysis revealed differences in margin performance across categories and locations. For example, the matrix showed that Electronics had a **45% margin** overall, while Toys had approximately **21%**.
 The Top 5 stores achieved approximately **32% gross margin**, while the Bottom 5 averaged approximately **25%**.
 
 **Business implication**
+
 This highlights an opportunity to investigate what the higher-performing stores are doing differently, including:
 - Pricing strategies
 - Product mix
@@ -211,7 +219,7 @@ Improve the performance of low  margin stores. Focus on the bottom five stores b
 ### Conclusion
 
 The analysis provided a comprehensive view of Maven Toys Mexico’s sales, profitability, inventory efficiency, and stockout performance. The business generated approximately **MXN 14.4M** in revenue, with a **28%** gross margin, while the analysis highlighted significant differences in store profitability and product performance.
-The estimated MXN 799M in potential lost revenue from stockouts highlights an important opportunity to improve product availability. At the same time, the 17.4-day overall inventory level suggests that inventory is generally below the 30-day benchmark, although certain categories require closer monitoring.
+The estimated **MXN 799M** in potential lost revenue from stockouts highlights an important opportunity to improve product availability. At the same time, the 17.4-day overall inventory level suggests that inventory is generally below the 30-day benchmark, although certain categories require closer monitoring.
 Overall, the dashboard provides actionable insights that can support better inventory planning, improved store profitability, and stronger revenue management decisions.
 
 
