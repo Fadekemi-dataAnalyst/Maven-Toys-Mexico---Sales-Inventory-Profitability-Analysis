@@ -94,6 +94,13 @@ This highlights an opportunity to investigate what the higher-performing stores 
 These practices could potentially be replicated across lower-performing locations.
 
 
+### Profit Margin Analysis
+
+
+<img width="661" height="384" alt="Image" src="https://github.com/user-attachments/assets/df93079e-f804-4bb3-a2bc-f187ff7f3e2d" />
+
+
+
 3. ### Sales Trend Analysis
 
 The Sales Trend page analyzes revenue performance over time and across different dimensions.
@@ -115,6 +122,12 @@ This can support decisions around:
 - Promotions
 - Marketing campaigns
 - Stock replenishment
+
+
+### Sales Trend Analysis
+
+<img width="655" height="377" alt="Image" src="https://github.com/user-attachments/assets/15e22049-d1f4-4693-92d7-7a07cfa745ae" />
+
 
 
 4. ### Stockout Events Analysis
@@ -140,6 +153,13 @@ The results indicate that stockouts may be a significant business concern, parti
 Prioritizing replenishment for products with high estimated lost revenue could help reduce missed sales opportunities.
 
 
+### Stockout Events Analysis
+
+<img width="654" height="374" alt="Image" src="https://github.com/user-attachments/assets/d2697c3b-5ab9-48f0-a7ae-a1fba3bacfe3" />
+
+
+
+
 5. ### Inventory Analysis
 
 This page evaluates how efficiently inventory is being managed across products and locations.
@@ -156,6 +176,13 @@ Games had the highest DIO at approximately 20+ days, while Electronics had the l
 Inventory Value
 The treemap was used to analyze inventory value across Product Category → Store Location, making it easier to identify where inventory is concentrated.
 This helps management understand where capital is tied up in inventory and where inventory optimization may be required.
+
+
+### Inventory & Profitability Analysis
+
+
+<img width="659" height="379" alt="Image" src="https://github.com/user-attachments/assets/930a195d-64ec-4442-a8c1-a3163226ed13" />
+
 
 
 
