@@ -1,7 +1,7 @@
 # Maven Toys Mexico-Sales Inventory Profitability Analysis
 
 
-<img width="1967" height="1088" alt="Image" src="https://github.com/user-attachments/assets/746827ec-a1fd-406c-ba55-ea14b6ed75b4" />
+<img width="1967" height="1088" alt="Image" src="https://github.com/user-attachments/assets/67cc3954-33ae-431c-b92e-826b502541a1" />
 
 
 
